@@ -2,7 +2,7 @@
 
 - Omnifood is an advanced online food ordering platform that seamlessly connects users with diverse restaurant cuisines.
 - Built with HTML and CSS, including normalize.css and grid.css for optimal design and responsiveness, the platform incorporates Jquery for functionality and integrates Google Fonts, Icons, and the AOS (Animation on Scroll) framework for enhanced user engagement.
-- Technologies Utilized: -
+- Here I Used Below Technologies: -
   1) HTML
   2) CSS (normalize.css, grid.css)
   3) Jquery
