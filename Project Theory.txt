@@ -1,0 +1,44 @@
+# Important Concepts used in Project:-
+1) css Box-sizzing Property:- 
+                    define the width and height of elements which present on webpage.
+
+2) Text rendering Property:-
+                    It increases the spped of webpage which is loaded on browser.
+
+3) Normalize css :-
+                    makes browsers render all elements more consistently and in line with modern standards.
+                    
+                    With the help of this some of the element become compatible and 
+                    consistent in all the browser that are available in market.
+
+                    goto https://csstools.github.io/normalize.css/  Framework.
+                    and download and unzip it in vendors folder
+                    link this by using <link> Tag inside <head> Tag
+
+4) Responsive Grid System:-
+                        goto responsivegridsystem.com  Framework.
+                        and download it after that unzip it and copy the css contents 
+                        (all.css content paste into grid.css) file in Vendors folder
+                        link this by using <link> Tag inside <head> Tag  
+
+5) Google Fonts:-
+                goto https://fonts.google.com/
+                In header section part 1 we use lato font.
+                paste that link into index.html file.   
+
+6) Icons:-
+            goto https://ionic.io/ionicons/usage  
+            copy installtion script and paste at the end of body section.  
+
+
+
+     # Project Different Section:-
+     1) Header Section
+     2) Feature Section
+     3) Favourite Meal Section  
+     4) How it Works Section  
+     5) City Section 
+     6) Customer Testinomials Section  
+     7) Sign-up Section 
+     8) Contact Form Section 
+     9) Footer Section                                                 
